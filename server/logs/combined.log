@@ -1,0 +1,42 @@
+2026-05-12 20:40:15 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:40:20 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-05-12 20:46:56 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:47:01 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-05-12 20:49:05 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:49:10 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-05-12 20:49:17 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:49:27 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:49:35 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:49:42 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:50:39 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:50:49 [warn]: MongoDB disconnected. Attempting to reconnect...
+2026-05-12 20:52:27 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 20:52:30 [warn]: MongoDB disconnected.
+2026-05-12 20:52:30 [warn]: Local MongoDB not available. Starting in-memory MongoDB...
+2026-05-12 20:52:30 [info]: ✅ MongoDB Connected (in-memory): 127.0.0.1
+2026-05-12 20:52:30 [warn]: ⚠️  Using in-memory MongoDB — data will be lost on restart. Install MongoDB for persistence.
+2026-05-12 21:01:21 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 21:01:24 [warn]: MongoDB disconnected.
+2026-05-12 21:01:24 [warn]: Local MongoDB not available. Starting in-memory MongoDB...
+2026-05-12 21:01:24 [info]: ✅ MongoDB Connected (in-memory): 127.0.0.1
+2026-05-12 21:01:24 [warn]: ⚠️  Using in-memory MongoDB — data will be lost on restart. Install MongoDB for persistence.
+2026-05-12 21:01:50 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 21:01:53 [warn]: MongoDB disconnected.
+2026-05-12 21:01:53 [warn]: Local MongoDB not available. Starting in-memory MongoDB...
+2026-05-12 21:01:54 [info]: ✅ MongoDB Connected (in-memory): 127.0.0.1
+2026-05-12 21:01:54 [warn]: ⚠️  Using in-memory MongoDB — data will be lost on restart. Install MongoDB for persistence.
+2026-05-12 21:01:57 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 21:02:00 [warn]: MongoDB disconnected.
+2026-05-12 21:02:00 [warn]: Local MongoDB not available. Starting in-memory MongoDB...
+2026-05-12 21:02:01 [info]: ✅ MongoDB Connected (in-memory): 127.0.0.1
+2026-05-12 21:02:01 [warn]: ⚠️  Using in-memory MongoDB — data will be lost on restart. Install MongoDB for persistence.
+2026-05-12 21:02:03 [info]: 🛡️  CyberShield IDS Server running on port 5000 [development]
+2026-05-12 21:02:06 [warn]: MongoDB disconnected.
+2026-05-12 21:02:06 [warn]: Local MongoDB not available. Starting in-memory MongoDB...
+2026-05-12 21:02:06 [info]: ✅ MongoDB Connected (in-memory): 127.0.0.1
+2026-05-12 21:02:06 [warn]: ⚠️  Using in-memory MongoDB — data will be lost on restart. Install MongoDB for persistence.
+2026-05-12 21:14:42 [info]: 🔌 Socket connected: G6UcDcbNTXk4HhP9AAAB (User: 6a02fd923d33784f5f07532b)
+2026-05-12 21:14:42 [debug]: Socket G6UcDcbNTXk4HhP9AAAB subscribed to threats
+2026-05-12 21:14:42 [debug]: Socket G6UcDcbNTXk4HhP9AAAB subscribed to alerts
+2026-05-12 21:14:42 [debug]: Socket G6UcDcbNTXk4HhP9AAAB subscribed to network
+2026-05-12 21:16:12 [info]: 🔌 Socket disconnected: G6UcDcbNTXk4HhP9AAAB
