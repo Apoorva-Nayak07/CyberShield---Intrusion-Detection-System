@@ -2,6 +2,15 @@
 
 > Enterprise-grade, AI-powered Intrusion Detection System with real-time monitoring, threat intelligence, and beautiful cyber-security dashboard.
 
+## Screenshots
+
+### Landing page
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
